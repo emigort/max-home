@@ -1,0 +1,46 @@
+{
+    "amount": "45000",
+    "current_status": null,
+    "borrowers": [
+        {
+            "first_name": "emilio",
+            "last_name": "gort",
+            "bank_accounts": [
+                {
+                    "bank_name": "wells fargo",
+                    "amount": "100000"
+                },
+                {
+                    "bank_name": "bank of america",
+                    "amount": "150000"
+                }
+            ],
+            "annual_incomes": [
+                {
+                    "income_type": "job",
+                    "amount": "120000"
+                },
+                {
+                    "income_type": "rental properties",
+                    "amount": "48000"
+                }
+            ]
+        },
+        {
+            "first_name": "John",
+            "last_name": "Doe",
+            "bank_accounts": [
+                {
+                    "bank_name": "city bank",
+                    "amount": "250000"
+                }
+            ],
+            "annual_incomes": [
+                {
+                    "income_type": "job",
+                    "amount": "140000"
+                }
+            ]
+        }
+    ]
+}
