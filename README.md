@@ -82,7 +82,7 @@ This is a test from Max Home, below you can find the steps to run the Laravel Pr
     
 ### Run the test
 
-1. To run the test run de command below 
+1. To run the test run de command below. It's just to verify the json structure is correct
 
      ```
         php artisan test  
