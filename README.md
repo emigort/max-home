@@ -80,7 +80,7 @@ This is a test from Max Home, below you can find the steps to run the Laravel Pr
     }
     ```
     
-## Run the test
+### Run the test
 
 1. To run the test run de command below 
 
